@@ -1,0 +1,3 @@
+kontrol alur program adalah cara untuk mengatur jalannya program berdasarkan kondisi tertentu
+
+dengan kontrol alur, program bisa mengambil keputusan dan melakukan tindakan yang berbeda tergantung pada situasi

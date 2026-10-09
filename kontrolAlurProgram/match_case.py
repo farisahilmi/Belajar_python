@@ -1,0 +1,11 @@
+# match-case adalah fitur alternatif yang lebih bersih untuk elif yang banyak
+
+hari = input("masukkan nama hari: ").lower()
+
+match hari:
+    case "senin" | "selasa" | "rabu" | "kamis" | "jumat":
+        print("hari kerja")
+    case "sabtu" | "minggu":
+        print("hari libur")
+    case _:
+        print("nama hari tidak valid")
