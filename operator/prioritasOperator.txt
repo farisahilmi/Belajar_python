@@ -1,0 +1,10 @@
+# operator memiliki urutan prioritas (precedence), operator dengan prioritas lebih tinggi akan dieksekusi terlebih dahulu 
+# urutan prioritas (dari tinggi ke rendah):
+
+** (pangkat)
+*,/,//,% (perkalian, pembagian)
++,- (penjumlahan, pengurangan)
+==, !=,<,>,<=,>= (perbandingan)
+not (logika not)
+and (logika and)
+or (logika or)
