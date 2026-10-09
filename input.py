@@ -2,5 +2,7 @@ nama = input("Masukkan nama Anda: ")
 print("halo ", nama)
 
 umur_teks = input("Masukkan umur anda: ")
-print("umur anda: ", umur_teks)
-print("tipe data: ", type(umur_teks))
+
+umur_angka = int(umur_teks)
+print("umur anda: ", umur_angka)
+print("tipe data: ", type(umur_angka)) 
