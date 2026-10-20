@@ -1,0 +1,3 @@
+data structures (struktur data) adalah cara untuk menyimpan dan mengorganisir data dalam program
+sejauh ini kita sudah belajar menyimpan satu nilai dalam satu variabel
+sekarang kita akan belajar cara menyimpan banyak nilai sekaligus

@@ -1,0 +1,7 @@
+mengakses list, sama seperti string, list menggunakan index yang dimulai dari 0
+mengubah elemen list, bisa menggunakan index dan ubah seperti mengubah variabel
+menambah elemen ke list, bisa menggunakan method append(data) untuk menambah diakhir, dan insert(index, data) untuk menambah setelah index
+menghapus elemen dari list, bisa menggunakan method remove(index), atau method pop() untuk menghapus elemen terakhir 
+untuk menghitung panjang list, kita bisa menggunakan function len(list)
+list bisa digabungkan dengan list lain menggunakan operator + (tambah)
+list juga sama seperti string, bisa di iterasi menggunakan for loop 

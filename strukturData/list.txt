@@ -1,0 +1,2 @@
+list adalah kumpulan data yang bisa menyimpan banyak nilai dalam satu variabel
+list ditulis dengan menggunakan kurung siku []
