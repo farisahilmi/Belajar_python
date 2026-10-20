@@ -1,7 +1,7 @@
 firstName = "farisa"
 lastName = "Hilmi"
 
-newname = "    Rido cliptria "
+newname = "    Rido cliptria    "
 
 fullName = firstName + " " + lastName
 

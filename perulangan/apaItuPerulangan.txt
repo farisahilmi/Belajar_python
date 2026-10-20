@@ -1,0 +1,2 @@
+Perulangan (loop) adalah cara untuk menjalankan kode yang sama berulang kali
+dengan perulangan, kita bisa menghemat waktu dan membuat kode lebih efisien daripada menulis kode yang sama berkali-kali
