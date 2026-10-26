@@ -1,0 +1,14 @@
+Dictionary (kamus)
+
+dictionary menyimpan data dalam pasangan key-value (kunci-nilai). dictionary ditulis dengan kurung kurawal {}
+
+untuk membuat data dictionary, kita perlu menentukan key dan juga value nya.
+key di dictionary bisa tipe data seperti string, integer, float, boolean, namun biasanya kebanyakan orang menggunakan string untuk key nya
+
+untuk mengakses dan menbuah value di dictionary, kita bisa gunakan key dengan kurung kotak, seperti di list
+
+untuk menghapus value di dictionary, kita bisa gunakan kata kunci del dict[key]
+
+untuk mengetahui panjang dictionary, kita bisa gunakan len(dictionary)
+
+dictionary juga bisa di iterasi menggunakan perulangan for sama speerti list yang mengembalikan key nya

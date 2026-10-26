@@ -1,0 +1,13 @@
+Tuple 
+
+tuple mirip dengan list, tetapi tidak bisa diubah stelah dibuat, tuple ditulis dengan kurung biasa ()
+
+untuk membuat tuple, kita bisa buat langsung menggunakan kurung, misal (satu, dua, tiga) kita bisa buat data bebas berapaapun yang kita mau
+
+untuk mengakses data di tuple, sama seperti list dan string, kita bisa gunakan index dengan kurung kotak
+
+tuple tidak bisa diubah setelah dibuat, jadi tidak ada operasi untuk mengubah atau menghapus data di tuple
+
+untuk mengetahui panjang tuple, kita bisa gunakan function len(tuple)
+
+sama seperti list, kita juga bisa melakukan iterasi di tuple

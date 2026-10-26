@@ -1,0 +1,9 @@
+function dengan return value
+
+saat membuat function, mungkin kita ingin function tersebut melakukan suatu kegiatan dan hasil kegiatan tersebut ingin kita dapatkan
+
+function bisa mengembalikan nilai dari kegiatan yang dilakukan di dalam function
+
+function bisa mengembalikan nilai menggunakan kata kunci return 
+
+setelah kata kunci return, diikuti dengan nilai yang akan dikembalikan di function tersebut

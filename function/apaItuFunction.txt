@@ -1,0 +1,16 @@
+Apa itu Function?
+
+function (fungsi) adalah blok kode yang dapat digunakan berulang kali.
+function membantu kita menulis kode yang lebih terorganisir, mudah dibaca, dan mudah dipelihara
+dengan function, kita tidak perlu menulis kode yang sama berkali-kali
+
+Membuat function
+
+Function dibuat menggunakan kata kunci def
+
+lalu diikuti dengan nama function dan diakhiri dengan kurung buka dan tutup 
+biasanya nama function dibuat seperti nama variable, snake_case dan hurup kecil semua
+
+isi function harus terdapat spasi untuk menandakan bahwa itu adalah isi dari function nya
+
+untuk memanggil function, kita bisa langsung panggil dengan nama_function diikuti dengan kurung buka tutup

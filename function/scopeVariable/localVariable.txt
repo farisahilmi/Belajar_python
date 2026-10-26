@@ -1,0 +1,3 @@
+Local Variable
+
+saat kita membuat variabel di dalam function, maka variabel tersebut bersifat local di function itu, artinya tidak bisa digunakan di luar function 

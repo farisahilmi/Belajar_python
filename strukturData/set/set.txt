@@ -1,0 +1,13 @@
+set (himpunan)
+
+set adalah kumpulan data yang tidak berurutan dan tidak memiliki elemen duplikat
+
+set ditulis dengan kurung kurawal {} atau fungsi set()
+
+untuk menambah data ke set, kita bisa gunakan method add(value)
+
+untuk menghapus data di set, kita bisa gunakan method remove(value)
+
+karena data di set tidak duplicate dan tidak berurutan, maka tidak bisa diakses menggunakan index
+
+untuk mengakses data di set, biasanya menggunakan perulangan for

@@ -1,0 +1,7 @@
+Parameter Dinamis
+
+python juga mendukung parameter dinamis
+
+kita bisa menambahkan tanda * sebelum nama parameter untuk memberi tahu bahwa itu adalah parameter dinamis berupa list
+
+atau kita bisa gunakan tanda ** sebelum nama parameter untuk memberi tahu bahwa itu adalah parameter berupa dictionary

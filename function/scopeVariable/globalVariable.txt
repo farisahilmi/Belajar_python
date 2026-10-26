@@ -1,0 +1,5 @@
+Global Variable
+
+Variable yang kita buat di luar fungsion, maka bisa digunakan di dalam function, atau bersifat global
+
+namun kita tidak bisa mengubah nilai dari global variable di dalam function, jika kita ingin mengubah nilai dari global variable, maka kita harus gunakan kata kunci global di dalam function nya

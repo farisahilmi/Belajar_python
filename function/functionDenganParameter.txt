@@ -1,0 +1,7 @@
+Function dengan parameter
+
+Parameter memungkinkan kita mengirim data ke function 
+caranya kita bisa tambahkan nama parameter diantara kurung buka dan kurung tutup di function 
+jika kita ingin menambahkan lebih dari satu parameter, kita bisa gunakan karakter koma sebagai pemisah parameter tersebut
+
+saat memanggil function nya, maka kita wajib mengisi data pada parameter function nya

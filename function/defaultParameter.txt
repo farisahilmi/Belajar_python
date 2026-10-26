@@ -1,0 +1,9 @@
+saat kita menambahkan parameter di function, maka kita wajib mengisi nilai para parameter tersebut ketika memanggil function nya
+
+namun, kita juga bisa menambahkan default parameter, yaitu nilai awal untuk parameter tersebut
+
+hal ini menjadikan jika kita tidak mengisi nilai pada parameter tersebut, maka parameter tersebut akan menggunakan nilai awal 
+
+posisi default parameter, tidak boleh di depan parameter basa, harus di belakang parameter biasa
+
+untuk membuat default parameter, cukup tambahkan = (sama dengan) dan diikuti dengan nilai awalnya

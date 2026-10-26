@@ -1,0 +1,9 @@
+Keyword Argument
+
+Argument adalah nilai yang kita kirim ke parameter function ketika kita memanggil function 
+
+saat memanggil function, posisi argument harus sama dengan posisi parameter di function namun, jika kita ingin mengubah posisi argument, sehingga posisi nya tidak harus sama dengan posisi parameter, maka kita harus menyebutkan nama parameter nya saat memanggil function 
+
+fitur ini disebut keyword Argument
+
+saat menggunakan Keyword Argument, kita juga bisa mengkombinasikan dengan Argument biasa
