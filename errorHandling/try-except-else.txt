@@ -1,0 +1,6 @@
+Try-Except-Else
+
+try-except juga memiliki bagian else seperti pada if dan for
+
+bagian else dijalankan jika tidak ada error pada try-except
+jika terjadi error, bagian else tidak akan dijalankan

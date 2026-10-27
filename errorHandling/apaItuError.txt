@@ -1,0 +1,4 @@
+Apa itu error?
+
+error adalah kesalahan yang terjadi saat program berjalan.
+ketika error terjadi, program akan berhenti dan menampilkan pesan error

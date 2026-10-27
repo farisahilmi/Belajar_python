@@ -1,0 +1,7 @@
+Menangani error spesifik
+
+saat menangani error, mungkin kita ingin melakukan hal yang berbeda untuk jenis error yang berbeda
+
+kita bisa menyebutkan tipe errornya setelah kata kunci except, sehingga jika terjadi error jenis tersebut, maka bagian except tersebut yag akan dieksekusi 
+
+kita bisa menambahkan lebih dari satu except

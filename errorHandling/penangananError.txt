@@ -1,0 +1,5 @@
+Penanganan error
+
+bagaimana untuk menangani error agar program kita tidak berhenti?
+
+penanganan error memungkinkan program untuk menangani error dengan baik tanpa berhenti secara tiba-tiba

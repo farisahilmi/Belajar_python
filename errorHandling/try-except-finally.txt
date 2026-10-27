@@ -1,0 +1,9 @@
+Try Except Finally
+
+else di try-except hanya akan dijalankan ketika tidak ada error
+
+Bagaimana jika ingin melakukan sesuatu, baik itu jika terjadi error ataupun tidak?
+
+kita bisa menggunakan finally
+
+finally selalu dijalankan, baik ada error atau tidak
