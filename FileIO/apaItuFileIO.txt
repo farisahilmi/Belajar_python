@@ -1,0 +1,9 @@
+Apa itu file I/O (input/output)?
+
+File I/O (input/output) adalah kemampuan program untuk membaca data dari menulis file dan menulis data ke file
+Dengan File I/O, kita bisa:
+menyimpan data secara permanen
+membaca data yang sudah tersimpan
+membuat laporan dalam bentuk file
+memproses data dari file eksternal
+backup dan restore data aplikasi 

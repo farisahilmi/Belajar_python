@@ -1,0 +1,18 @@
+APLIKASI KALKULATOR SEDERHANA
+penjumlahan 
+pengurangan
+perkalian
+pembagian
+
+APLIKASI PERMAINAN TEBAK ANGKA
+buat angka random 
+HINT "terlalu besar" atau "terlalu kecil"
+hitung jumlah tebakan 
+ada maksimal tebakan
+
+APLIKASI UJIAN SEKOLAH
+membaca soal dari file
+mengacak soal ujian 
+mengacak posisi jawaban soal
+hasil score murid
+

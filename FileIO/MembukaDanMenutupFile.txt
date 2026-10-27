@@ -1,0 +1,36 @@
+membuka dan menutup file
+
+untuk membuka file, kita bisa menggunakan function open(file, mode)
+setelah selesai membuka file, jangna lupa tutup menggunakan function (close) pada variabelnya
+saat membuka file, kita harus tentuka mode nya
+
+
+Mode File
+
+ Mode        | Deskripsi            | Contoh Penggunaan
+ r           | Read (Baca)          | membaca file yang sudah ada
+ w           | Write (Tulis)        | menulis file baru atau menimpa file lama
+ a           | Append (Tambah)      | menambah data di akhir file
+ x           | Create (Buat)        | membuat file baru, error jika sudah ada
+
+
+Menulis ke file
+untuk menulis ke file, kita bisa gunakan function write(string)
+perlu diperhatikan, file yang sudah di close() tidak bisa ditulis lagi
+
+membaca dari file
+untuk membaca dari file, kita bisa menggunakan function read() function ini akan mengembalikan seluruh isi file
+namun mungkin kadang kita hanya ingin membaca file per-baris, maka kita bisa menggunakan iterasi for untuk membaca per baris
+
+With statement (rekomendasi)
+saat membaca/menulis file, kita harus berhati-hati karena jika terjadi error, dan kita lupa melakukan close(), maka aplikasi kita bisa terjadi memory leak, yaitu kondisi dimana informasi file masih ada di memory aplikasi, padahal kita sudah tidak menggunakan file tersebut
+hal ini sangat berbahaya karena penggunaan memori aplikasi kita akan semakin besar tanpa kita sadari
+with  statement memastikan file otomatis tertutup, bahkan jika terjadi error
+dengan menggunakan with statement, kita tidak perlu khawatir kita lupa menutup file menggunakan close()
+
+Error Handling untuk file
+walaupun selalu menutup file menggunakan with statement, tapi jika terjadi error, maka tetap aplikasi akan terhenti
+oleh karena itu, kita tetap perlu menggunakan try-except
+misal, bagaimana jika file yang kita baca itu tidak ada, maka akan terjadi error FileNotFoundError misalnya
+
+
