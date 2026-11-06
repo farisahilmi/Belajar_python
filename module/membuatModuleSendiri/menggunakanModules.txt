@@ -1,0 +1,5 @@
+Menggunakan Modules
+
+untuk menggunakan modules, kita bisa menggunakan kata kunci import diikuti dengan nama module (nama file tanpa.py)
+
+selanjutnya utuk menggunakan function atau variable di dalam modules itu, kita harus menyebutkan nama modules nya terlebih dahulu

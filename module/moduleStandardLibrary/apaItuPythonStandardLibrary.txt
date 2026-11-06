@@ -1,0 +1,9 @@
+APA ITU PYTHON STANDARD LIBRARY?
+
+Python standard library adalah kumpulan modules yang sudah tersedia secara default (bawaan) saat menginstall Python
+
+Tidak Perlu install tambahan, langsung bisa digunakan
+
+Ini seperti kotak peralatan lengkap yang sudah disediakan python
+
+

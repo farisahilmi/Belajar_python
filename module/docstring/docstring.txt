@@ -1,0 +1,5 @@
+docstring
+
+saat membuat member (function, variable) di modules, biasanya programmer python akan menambahkan docstring, yaitu dokumentasi
+untuk membuat docstring, kita bisa gunakan tanda petik sebanyak tiga kali, dan menjelaskan kegunaan dari function/ variabel tersebut
+

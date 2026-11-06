@@ -1,0 +1,33 @@
+BERBAGAI METODE IMPORT
+
+ada beberapa cara untuk mengimport modules di Python. Setiap cara memiliki kegunaan dan situasi yang tepat
+Import seluruh module, seperti yang sudah kita lakukan sebelumnya dengan menggunakan Import dan nama Modules nya
+
+IMPORT FUNCTION TERTENTU
+
+Jika kita hanya butuh melakukan import function atau variable tertentu, kita bisa menggunakan kode:
+from nama_module import function_name
+
+jika ingin melakukan import lebih dari satu, kita bisa gunakan pemisah tanda 
+koma:
+from nama_module import function_name, VARIABLE_NAME
+
+selanjutnya kita bisa menggunakan function_name atau VARIABLE_NAME
+tanpa harus menyebutkan nama_module nya lagi
+
+IMPORT DENGAN ALIAS
+
+kadan kita misal ingin melakukan import module, namun sayangnya nama module nya sama dengan module lain, hal ini akan membingunkan jika memang ada nama module yang sama
+kita import, caranya :
+
+import nama_module as alias
+
+selanjutnya, kita bisa mengakses seluruh member di nama_module dengan alias
+
+
+IMPORT SEMUA MEMBER MODULE (HATI - HATI!)
+
+jika kita melakukan import module, maka kita tetap harus menyebutkan nama module ketika ingin mengakses member dari module tersebut
+namun jika kita ingin meng-import semua member module tanpa harus menyebutkan lagi nama module nya, kita bisa gunakan tanda *(bintang):
+from nama_module import *
+namun perlu hati-hati, jika sampai ada nama member (function/ variable) di module tersebut bentrok dengan function / variable di file python yang melakukan import

@@ -1,0 +1,4 @@
+Pattern name == "main"
+
+saat kita membuat kode di dalam file.py, kadang kita ingin kode yang hanya boleh dijalankan ketika kita menjalankan file tersebut sebagai program python
+untuk memberitahu bagian mana kode yang akan dijalankan sebagai program utama (main), maka kita perlu mengecek variable bawaan python bernama __name__, jika nilainya adalah string __main__, maka artinya file tersebut sedang dijalankan sebagai program utama

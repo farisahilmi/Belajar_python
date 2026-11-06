@@ -1,0 +1,11 @@
+MODULE MATH - OPERASI MATEMATIKA
+https://docs.python.org/3/library/math.html
+
+Module Random - Angka dan Pilihan Acak
+https://docs.python.org/3/library/random.html 
+
+Module Datetime - Tanggal dan Waktu
+https://docs.python.org/3/library/datetime.html
+
+Module OS - Operating sistem
+https://docs.python.org/3/library/os.html

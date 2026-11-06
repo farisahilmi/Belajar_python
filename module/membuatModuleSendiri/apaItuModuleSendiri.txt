@@ -1,0 +1,5 @@
+apa itu module sendiri?
+
+module sendiri adalah file python (.py) yang kita buat untuk menyimpan functions, variables, dan code yang ingin kita gunakan di program lain.
+
+ini seperti membuat perpustakaan pribadi berisi tools yang sering kita pakai

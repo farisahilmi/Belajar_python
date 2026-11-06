@@ -1,0 +1,9 @@
+Struktur kode yang Baik
+
+saat membuat modules di Python, biasanya menggunakan struktur yang baik. 
+
+gunakan struktur sebagai berikut:
+Di awal file : import
+kemudian : constant / variable
+kemudian : function 
+kemudian : __main__
