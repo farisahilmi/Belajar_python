@@ -1,0 +1,15 @@
+●Object-Oriented Programming (OOP) adalah paradigma programming yang mengorganisir code berdasarkan objects dan classes.
+
+●Bayangkan OOP seperti cara kita berpikir dalam kehidupan nyata - setiap benda memiliki karakteristik (properties) dan kemampuan (behaviors).
+
+●Contoh Sederhana:
+
+○Mobil memiliki karakteristik: warna, merk, tahun
+
+○Mobil memiliki kemampuan: maju, mundur, belok, klakson
+
+●Dalam OOP:
+
+○Karakteristik = Attributes (variables dalam object)
+
+○Kemampuan = Methods (functions dalam object)
